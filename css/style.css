@@ -1,0 +1,14 @@
+.nav {
+    list-style:none;
+    text-align:center;
+}
+,nav li {
+    display:inline;
+    margin-right:20px;
+}
+.container {
+    width:200px;
+    margin:0 auto;
+    padding:50px ;
+    background-color: rgb(240, 97, 225);
+}
